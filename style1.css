@@ -1,0 +1,28 @@
+.logo{
+     width: 150px;
+     height:auto;
+}
+.logo2
+{
+    width: 300px;
+     height:auto;
+}
+body{
+    background-color:#f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    margin-bottom:20px;
+}
+
+nav a{
+    text-decoration:none;
+    margin:10px;
+    font-weight:bold;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+}
