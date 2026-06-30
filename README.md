@@ -1,4 +1,4 @@
- # 🍽️ Restaurant Website
+  # 🍽️ Restaurant Website
 
 A responsive restaurant website built using HTML, CSS, and Bootstrap 5.
 
