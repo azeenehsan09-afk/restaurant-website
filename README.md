@@ -61,7 +61,10 @@ Restaurant-Website/
 - Add animations and hover effects
 - Add form validation with JavaScript
 - Connect the contact form to a backend
+- 
+## 📸 Image Credits
 
+Food and restaurant images are sourced from Unsplash and are used under the Unsplash License.
 ## 👤 Author
 
 **Azeen Ehsan**
